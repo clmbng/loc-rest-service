@@ -1,4 +1,4 @@
-package hello;
+package loc;
 
 public class Greeting {
 
